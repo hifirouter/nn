@@ -9,7 +9,7 @@ description = {
    summary = "Neural Network package for Torch",
    detailed = [[
    ]],
-   homepage = "https://github.com/torch/nn",
+   homepage = "https://git.oschina.net/hifiwifi/nn.git",
    license = "BSD"
 }
 
