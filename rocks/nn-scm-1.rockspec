@@ -2,7 +2,7 @@ package = "nn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/nn.git",
+   url = "https://git.oschina.net/hifiwifi/nn.git",
 }
 
 description = {
